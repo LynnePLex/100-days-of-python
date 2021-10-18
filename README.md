@@ -7,3 +7,4 @@ The course I'm learning from: [100 Days of Code by Dr Angeula Yu](https://www.ud
 
 ## Day 2 - October 13th, 2021
 ~ BMI Calculator
+~ Bill Split Calculator
